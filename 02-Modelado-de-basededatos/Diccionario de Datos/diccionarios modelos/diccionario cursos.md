@@ -1,6 +1,5 @@
 # 📘 Diccionario de Datos – Cursos
-## 📘 Diccionario de Datos – ESCUELA
-
+¡
 ---
 
 **Tabla ESTUDIANTES**
